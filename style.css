@@ -1,0 +1,103 @@
+.logo{
+  background-color: #25a5a5;
+  color: white;
+  font: bold 20px Arial;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 70px;
+  margin-left:40%;
+
+
+}
+
+.navbar-color1{
+  background-color:white;
+}
+/* Anything Smaller than Large  */
+@media (max-width: 480px) {
+  .navbar-color1  {
+      background-color: #25a5a5; 
+  }
+  .logo {
+      margin-left: 5%;
+      font: bold 20px arial center;
+      text-align: center;
+      vertical-align: middle;
+      line-height: 70px;
+  }
+}
+
+.navbar-header a.logo:hover {
+  color: white;
+}
+
+.drop-color{
+  background-color:white;
+}
+
+
+#index-image {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
+
+.image{
+max-width: 100%;
+height: auto;
+width: auto\9;
+}
+
+.page-disc{
+  padding-left: 4%;
+  padding-bottom: 2%;
+}
+.table-prop{
+padding-top: 5%;
+}
+
+.text-style{
+  font-family: 'Segoe UI Black';
+  color:gray;
+  line-height: 2.2;
+  padding: 3%;
+  
+
+}
+
+
+#figure {
+  position: relative;
+}
+body {
+  background: #efeee7;
+}
+
+.section-style { display: block;
+  background-color: white;
+  margin: 10px;
+  }
+
+.title{
+  color: #25a5a5;
+  border-bottom: 1px solid #efeee7;
+  padding:4%;
+  font-family: charlesworth;
+  font-weight: bold;
+}
+#main-section {
+  margin: 2%;
+}
+
+.navbar-color {
+  background-color: white;
+
+}
+
+.head-style {
+  color: #25a5a5;
+  font-family: charlesworth;
+  font-weight: bold;
+  text-align: center;
+}
